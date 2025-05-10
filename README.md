@@ -69,12 +69,3 @@ Contributions are what make the open-source community such an amazing place to l
 
 Распространяется под лицензией MIT. Смотрите `LICENSE` для получения дополнительной информации.
 Distributed under the MIT License. See `LICENSE` for more information.
-
-## Контакты | Contact
-
-Ваше Имя / Название Организации - [@your_twitter_handle](https://twitter.com/your_twitter_handle) - email@example.com
-
-Ссылка на проект: [https://github.com/ilialor/SotACode](https://github.com/ilialor/SotACode)
-
----
-*Этот README.md был частично сгенерирован с помощью AI ассистента.*
