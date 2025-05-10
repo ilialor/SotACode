@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ilialor/SotACode">
-    <img src="docs/logo_SotACode.png" alt="SotACode Logo" width="200" height="200">
+    <img src="docs/logo_SotACode_300.jpg" alt="SotACode Logo" width="200" height="200">
   </a>
 </p>
 
