@@ -6,7 +6,7 @@ SotACode is a pioneering project dedicated to providing developers with a compre
 
 Explore our curated lists of essential coding components:
 - [Top 20 Frequently Used Components](top-20.md) - A detailed guide to the most common building blocks in Node.js/TypeScript and Python applications.
-- [Top 25 Planned Components and Templates](top-25-list.md) - Our roadmap for future reusable solutions, including cutting-edge technologies.
+- [Top 25 Planned Components and Templates](top-25-list.md) - Blocks for MVP.
 
 Join us in revolutionizing the way developers approach coding by leveraging proven patterns and modern practices. Contribute, learn, and build with SotACode!
 
@@ -20,7 +20,7 @@ SotACode - это новаторский проект, направленный 
 
 Ознакомьтесь с нашими тщательно подобранными списками ключевых компонентов кода:
 - [Топ-20 часто используемых компонентов](top-20.md) - Подробное руководство по наиболее распространенным строительным блокам в приложениях на Node.js/TypeScript и Python.
-- [Топ-25 планируемых компонентов и шаблонов](top-25-list.md) - Наш план по созданию будущих решений, включая передовые технологии.
+- [Топ-25 планируемых компонентов и шаблонов](top-25-list.md) - выборка первых блоков для МВП.
 
 Присоединяйтесь к нам, чтобы изменить подход разработчиков к программированию, используя проверенные шаблоны и современные практики. Вносите свой вклад, учитесь и создавайте вместе с SotACode!
 
@@ -48,7 +48,6 @@ SotACode - это новаторский проект, направленный 
 4. **Поддержка SotA-технологий**  
    - Интеграция современных решений (GraphQL, Serverless, WebSockets) на уровне архитектуры в виде готовых модулей.
 
-5. 
 ---
 
 ### **Потенциальные проблемы и риски** 
